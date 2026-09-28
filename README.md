@@ -4,72 +4,85 @@
 
 ##
 
- <div style="display: inline_block">
+<div style="display: inline_block">
   <img align="center" alt="HTML5" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="JavaScript" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Lua" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
   <img align="center" alt="Python" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
- </div>
+</div>
 
 ##
 
-### About me 
-- 🔭 I’m currently working on a Pokedex project
-- 🌱 I’m currently learning Lua and JavaScript
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pedrolucca12&theme=blueberry-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pedrolucca12&theme=blueberry-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</a>
+
+##
+
+### About Me
+
+- 🔭 Currently working on some personal projects
+- 🌱 Learning JavaScript, Python and improving my Luau
+- 💻 I like making websites, apps and games
+- 🎮 I usually get my project ideas from games and things I use
+- 🧪 I like trying out new technologies just to see what I can make with them
+- 🚀 Always working on something new
 - 😄 Pronouns: He/Him
 
 ##
 
 ### Technical Skills
-- Luau (Begginer):
-Advanced knowledge in scripting for Roblox Studio, creating complex game logic and interactive elements.
-Experienced in designing custom game mechanics, AI behaviors, and in-game UI systems.
-Familiar with Roblox's services and APIs for managing data storage, leaderboards, and player interactions.
 
-- HTML (Intermediate):
+- **Luau (Intermediate):**  
+Experienced with Roblox Studio scripting, game logic and interactive systems.  
+Comfortable creating custom game mechanics, AI behaviors and UI systems.
 
-Proficient in building semantic, accessible, and well-structured web pages using HTML5.
-Familiar with creating forms, embedding media, and using modern HTML elements to enhance content and SEO.
+- **HTML (Intermediate):**  
+Comfortable building structured and responsive web pages using HTML5.
 
-- CSS (Intermediate):
+- **CSS (Intermediate):**  
+Comfortable with Flexbox, CSS Grid, animations, transitions and custom styling.
 
-Skilled in building responsive layouts using Flexbox and CSS Grid.
-Comfortable with CSS animations and transitions to improve user interaction and visual appeal.
-Experience with custom themes, CSS variables, and working with pre-processors like Sass for clean and efficient styling.
+- **JavaScript (Beginner):**  
+Basic knowledge of DOM manipulation, events and APIs.  
+Currently learning more about asynchronous programming and other JavaScript concepts.
 
-- JavaScript (Beginner):
-
-Basic understanding of vanilla JavaScript for simple DOM manipulation and event handling.
-Eager to expand knowledge in asynchronous programming (Promises, async/await) and working with APIs.
-Currently exploring more advanced JS concepts and looking to improve through practice.
+- **Python (Beginner):**  
+Basic knowledge of Python for applications, automation and general programming.  
+Currently improving my Python skills through practice and personal projects.
 
 ##
 
-### My projects 
+### My Projects
 
-- [Anonymous Chat](https://anom-chat.onrender.com)
-- [Marry Online](https://mwyfco.netlify.app/)
-- [Free Games on Epic Games](https://freegamesepic.netlify.app/)
-- [My Portfolio](https://myportfolio-hdsn.onrender.com)
-- [Pokedex](https://pokedex-wjft.onrender.com)
-
-##
-
-### Besides all that
-
-- I like Pokemon :D
-- I am christian
-- I am brazilian
-- I like videogames
-- I play piano and flute
+- **[Project Name](https://github.com/yourusername/project)** — Short description of the project.
+- **[Project Name](https://github.com/yourusername/project)** — Short description of the project.
+- **[Project Name](https://github.com/yourusername/project)** — Short description of the project.
+- **[Project Name](https://github.com/yourusername/project)** — Short description of the project.
+- **[Project Name](https://github.com/yourusername/project)** — Short description of the project.
 
 ##
 
-### Contact me on:
+### Besides All That
 
-<a href="mailto:ninedrawcontact@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/ninedrawsla/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-ff3386?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/profile.php?id=61555479290129" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+- 🎮 I really like videogames
+- ⚡ I spend a lot of time messing around with code
+- 🐱 I like Pokémon
+- 🎹 I play piano and flute
+- 💻 I enjoy making random projects just for fun
+- 🧩 I like solving problems and figuring out how things work
+- 🇧🇷 Brazilian
+- ✝️ Evangelical
+
+##
+
+### Contact Me On
+
+<a href="mailto:pedroluccacoutoferreira12@gmail.com">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
 
 ##
